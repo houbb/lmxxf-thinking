@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 经典方法论之 帕累托法则（Pareto Principle / 80/20 原则）
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

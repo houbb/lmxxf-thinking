@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 对于信息处理输出如何影响着我们的世界？
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

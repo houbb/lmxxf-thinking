@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 对于信息处理的思维模型之实践化输出（Actionable Output）
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

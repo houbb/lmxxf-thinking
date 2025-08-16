@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 对于信息处理输出方式可以有哪些？
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

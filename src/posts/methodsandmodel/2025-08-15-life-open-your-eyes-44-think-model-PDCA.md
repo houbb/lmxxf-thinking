@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 经典方法论之 PDCA 循环（Plan-Do-Check-Act）
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

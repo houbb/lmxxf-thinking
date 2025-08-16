@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 能力的核心是什么？能力的第一性原理是什么？
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

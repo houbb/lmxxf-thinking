@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 详细展开输入层的 元认知监控（Metacognitive Monitoring）
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

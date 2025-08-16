@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 经典方法论之 持续迭代（Continuous Improvement / Kaizen）
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

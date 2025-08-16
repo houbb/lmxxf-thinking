@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 对于信息处理的思维模型之 系统思维（Systems Thinking）
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

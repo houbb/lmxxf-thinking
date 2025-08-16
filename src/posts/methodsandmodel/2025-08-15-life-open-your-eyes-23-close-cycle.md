@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 对于信息的输入、处理、输出如何形成闭环？
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 软件技术工作不同的职位的核心能力是什么？
 date: 2025-8-15 20:40:12 +0800
 categories: [Life]
