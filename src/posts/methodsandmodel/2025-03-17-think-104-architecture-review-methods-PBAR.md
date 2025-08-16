@@ -2,7 +2,7 @@
 
 title: 敏捷架构评审方法 PBAR（Pattern-Based Architecture Review）
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true
 ---

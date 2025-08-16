@@ -2,7 +2,7 @@
 
 title: 元宵节？一个不放假的普通工作日罢了
 date: 2025-2-12 20:29:55 
-categories: [lmxxf]
+categories: [notes]
 tags: [reading, book, 5min, sh]
 published: true
 ---

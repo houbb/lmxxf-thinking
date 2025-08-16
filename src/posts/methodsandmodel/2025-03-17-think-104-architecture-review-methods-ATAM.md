@@ -2,7 +2,7 @@
 
 title: 系统化架构评估方法 ATAM（Architecture Tradeoff Analysis Method）
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true
 ---

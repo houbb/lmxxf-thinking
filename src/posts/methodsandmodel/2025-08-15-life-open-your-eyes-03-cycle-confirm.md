@@ -2,7 +2,7 @@
 
 title: 工作推进过程中，如何高效跟进 + 避免扯皮 + 责任明确
 date: 2025-8-15 20:40:12 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, career-planning, sh]
 published: true
 ---

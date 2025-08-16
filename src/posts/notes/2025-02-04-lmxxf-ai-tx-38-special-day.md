@@ -2,7 +2,7 @@
 
 title: 3.8 的半天假，其实要感谢一百年前罢工的女工
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [ai, person, sh]
 published: true
 ---

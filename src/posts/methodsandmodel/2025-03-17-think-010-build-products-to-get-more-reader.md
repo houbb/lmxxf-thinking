@@ -2,7 +2,7 @@
 
 title: 自己平时写的文章、写的开源代码看的人特多少，正反馈太弱，很想放弃，要如何改善这种情况？给出切实可行的方案
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true
 ---

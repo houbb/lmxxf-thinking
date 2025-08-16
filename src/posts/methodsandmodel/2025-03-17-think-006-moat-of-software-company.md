@@ -2,7 +2,7 @@
 
 title: 技术软件公司的护城河是什么？
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [company]
 tags: [think, software, sh]
 published: true
 ---

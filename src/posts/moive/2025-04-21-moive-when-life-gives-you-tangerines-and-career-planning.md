@@ -2,7 +2,7 @@
 
 title: 看完《苦尽柑来遇见你》一点思考
 date: 2025-4-21 12:56:21 +0800
-categories: [Note]
+categories: [Moive]
 tags: [note, moive, sh]
 published: true
 ---

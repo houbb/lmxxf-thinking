@@ -2,7 +2,7 @@
 
 title: 人性善恶大审判：谁在偷偷修改道德的源代码？
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [ai, person, sh]
 published: true
 ---

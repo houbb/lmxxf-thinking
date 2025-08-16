@@ -2,7 +2,7 @@
 
 title: 方法论之 KPI 入门介绍 Key Performance Indicator（关键绩效指标），是企业、团队或个人用来衡量工作绩效和目标完成情况的量化指标。
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, methodology, sh]
 published: true
 ---

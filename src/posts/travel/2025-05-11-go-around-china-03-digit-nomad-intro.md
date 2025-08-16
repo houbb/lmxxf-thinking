@@ -2,7 +2,7 @@
 
 title: 走遍中国-03-数字游民（Digital Nomad）
 date: 2025-5-11 20:16:25 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, note, sh]
 published: true
 ---

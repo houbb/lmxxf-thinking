@@ -2,7 +2,7 @@
 
 title: 哪吒2观后感之封神宇宙最惨群架：精英神仙VS草根大妖 
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [life, note, sh]
 published: true
 ---

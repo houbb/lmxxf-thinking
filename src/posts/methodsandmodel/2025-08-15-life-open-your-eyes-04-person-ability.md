@@ -2,7 +2,7 @@
 
 title: 作为人，拥有的所有能力有哪些？
 date: 2025-8-15 20:40:12 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, career-planning, sh]
 published: true
 ---

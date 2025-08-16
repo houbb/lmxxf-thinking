@@ -2,7 +2,7 @@
 
 title: 晚清第一能臣曾国藩
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [ai, person, sh]
 published: true
 ---

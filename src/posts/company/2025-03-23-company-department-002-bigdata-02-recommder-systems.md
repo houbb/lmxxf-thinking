@@ -2,7 +2,7 @@
 
 title: 大数据之推荐系统 big data Recommender Systems
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [company]
 tags: [think, software, company, department, sh]
 published: true
 ---

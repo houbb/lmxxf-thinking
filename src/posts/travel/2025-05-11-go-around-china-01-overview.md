@@ -2,7 +2,7 @@
 
 title: 走遍中国-01-路径概览
 date: 2025-5-11 20:16:25 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, note, sh]
 published: true
 ---

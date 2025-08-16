@@ -2,7 +2,7 @@
 
 title: 走遍中国-06-程序员的其他收入方式
 date: 2025-5-11 20:16:25 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, note, sh]
 published: true
 ---

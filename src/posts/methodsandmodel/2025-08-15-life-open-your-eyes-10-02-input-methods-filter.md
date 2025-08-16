@@ -2,7 +2,7 @@
 
 title: 如何提升输入层的 筛选与甄别（Information Filtering）
 date: 2025-8-15 20:40:12 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, career-planning, sh]
 published: true
 ---

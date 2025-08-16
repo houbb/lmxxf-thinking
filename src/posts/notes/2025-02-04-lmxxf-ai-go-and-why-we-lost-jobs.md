@@ -2,7 +2,7 @@
 
 title: 围棋大师与AI共舞，程序员为何却担心被 AI 替代？
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [ai, person, sh]
 published: true
 ---

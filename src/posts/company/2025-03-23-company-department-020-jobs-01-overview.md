@@ -2,7 +2,7 @@
 
 title: 技术公司之公司有哪些岗位？产品、研发、测试、运营、销售、营销
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [company]
 tags: [think, software, company, department, sh]
 published: true
 ---

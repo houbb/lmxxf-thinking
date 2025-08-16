@@ -2,7 +2,7 @@
 
 title: 蜉蝣的奇幻漂流
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [ai, person, sh]
 published: true
 ---

@@ -2,7 +2,7 @@
 
 title: 思维模型 解决问题常用的思维模型有哪些？可以让我们提升思维的思维模型有哪些？
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true
 ---

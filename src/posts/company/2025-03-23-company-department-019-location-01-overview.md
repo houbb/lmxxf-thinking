@@ -2,7 +2,7 @@
 
 title: 技术公司之公司中的战略、赛道、生态、闭环
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [company]
 tags: [think, software, company, department, sh]
 published: true
 ---

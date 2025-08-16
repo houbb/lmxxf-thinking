@@ -2,7 +2,7 @@
 
 title: 聪明人的孩子一定会越来越聪明吗？
 date: 2025-2-3 13:04:22 
-categories: [lmxxf]
+categories: [notes]
 tags: [ai, person, sh]
 published: true
 ---

@@ -2,7 +2,7 @@
 
 title: 程序员的如何打造自己的作品集？
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true
 ---

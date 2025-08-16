@@ -2,7 +2,7 @@
 
 title: 工作/劳动生产的基本要素+整个流程
 date: 2025-8-15 20:40:12 +0800
-categories: [Life]
+categories: [Travel]
 tags: [life, career-planning, sh]
 published: true
 ---

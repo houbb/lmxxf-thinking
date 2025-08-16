@@ -2,7 +2,7 @@
 
 title: 软件开发者程序员的护城河是什么？
 date: 2025-03-17 21:01:55 +0800
-categories: [Think]
+categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true
 ---
