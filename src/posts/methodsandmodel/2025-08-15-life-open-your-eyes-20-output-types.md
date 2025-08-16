@@ -100,5 +100,3 @@ published: true
 
 # 参考资料
 
-* any list
-{:toc}

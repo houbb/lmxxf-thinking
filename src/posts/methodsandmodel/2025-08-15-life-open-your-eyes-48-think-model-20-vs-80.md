@@ -117,5 +117,3 @@ Pareto 分析 是基于 帕累托法则（Pareto Principle / 80/20 原则） 的
 
 # 参考资料
 
-* any list
-{:toc}
