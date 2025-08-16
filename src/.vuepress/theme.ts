@@ -171,7 +171,19 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-    slimsearch: true,
+    // slimsearch: true,
+    search: {
+      // 可选参数，支持多语言
+      locales: {
+        "/": {
+          placeholder: "搜索",
+        },
+        "/zh/": {
+          placeholder: "搜索文档",
+        },
+      },
+    },
+
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
