@@ -17,7 +17,7 @@ sticky: true
 
 ## 关于我
 
-> [关于我](https://houbb.github.io/about/)
+> [](https://houbb.github.io/about/)
 
 ## 个人公众号
 
