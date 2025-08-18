@@ -2,7 +2,7 @@
 
 title: 货币简单介绍
 date: 2025-4-19 14:31:52 +0800
-categories: [Note]
+categories: [Money]
 tags: [note, bold, money, sh]
 published: true
 ---

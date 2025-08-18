@@ -2,7 +2,7 @@
 
 title: 金融的衍生工具(Financial Derivatives)
 date: 2025-4-19 14:31:52 +0800
-categories: [Note]
+categories: [Money]
 tags: [note, bold, money, sh]
 published: true
 ---

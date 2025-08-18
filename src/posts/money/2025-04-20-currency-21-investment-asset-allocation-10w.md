@@ -2,7 +2,7 @@
 
 title: 十万元投资方式之资产配置 Asset Allocation
 date: 2025-4-19 14:31:52 +0800
-categories: [Note]
+categories: [Money]
 tags: [note, asset, sh]
 published: true
 ---

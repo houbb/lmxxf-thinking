@@ -2,7 +2,7 @@
 
 title: 穷人应该生孩子吗？
 date: 2025-6-21 23:45:51 +0800
-categories: [Note]
+categories: [Money]
 tags: [note, sh]
 published: true
 ---

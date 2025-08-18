@@ -2,7 +2,7 @@
 
 title: 金银石油定位
 date: 2025-4-19 14:31:52 +0800
-categories: [Note]
+categories: [Money]
 tags: [note, bold, sh]
 published: true
 ---

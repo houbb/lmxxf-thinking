@@ -2,7 +2,7 @@
 
 title: 投资风险控制 risk-control
 date: 2025-4-19 14:31:52 +0800
-categories: [Note]
+categories: [Money]
 tags: [note, asset, sh]
 published: true
 ---
