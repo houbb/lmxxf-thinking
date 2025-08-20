@@ -1,6 +1,6 @@
 ---
 
-title: 面对全新的技术如何学习？ 学习方法论组合使用，可落地
+title: 如何进行学习方法论组合使用，可落地
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]

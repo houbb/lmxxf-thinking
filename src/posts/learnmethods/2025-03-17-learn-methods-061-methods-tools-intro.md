@@ -1,6 +1,6 @@
 ---
 
-title: 面对全新的技术如何学习？学习方法论的工具支撑
+title: 学习方法论的工具支撑
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]
