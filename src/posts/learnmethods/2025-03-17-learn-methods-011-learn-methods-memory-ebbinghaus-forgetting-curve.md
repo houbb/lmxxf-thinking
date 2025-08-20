@@ -1,6 +1,6 @@
 ---
 
-title: 艾宾浩斯遗忘曲线（Ebbinghaus Forgetting Curve）
+title: 学习方法论记忆篇之艾宾浩斯遗忘曲线（Ebbinghaus Forgetting Curve）
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]

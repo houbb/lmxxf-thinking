@@ -1,6 +1,6 @@
 ---
 
-title: 面对全新的技术如何学习？SMART目标设定法
+title: 系统化目标管理工具之SMART目标设定法
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]
@@ -16,8 +16,6 @@ published: true
 困境：新技术应该如何学习？为什么别人全新的技术可以很快学习，并且出书+教程，有哪些技巧
 
 ## 详细展开一下SMART目标设定法
-
-
 
 SMART目标设定法是一种广泛应用于个人发展、企业管理、教育等领域的系统化目标管理工具。
 

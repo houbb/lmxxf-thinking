@@ -1,6 +1,6 @@
 ---
 
-title: 面对全新的技术如何学习？费曼学习法 Feynman Technique
+title: 学习方法论阅读理解篇之费曼学习法 Feynman Technique
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]
@@ -11,13 +11,8 @@ published: true
 
 
 
-# chat
 
-困境：新技术应该如何学习？为什么别人全新的技术可以很快学习，并且出书+教程，有哪些技巧
-
-## 详细展开一下费曼学习法
-
-
+# 费曼学习法
 
 ### 费曼学习法详解
 
@@ -178,6 +173,7 @@ published: true
 ---
 
 ### 动手试试！
+
 找一个你最近学过的概念（比如数学公式、历史事件），按照这四步走一遍。
 
 你会发现： “能教明白别人，才是真学会”  这句话的魔力✨

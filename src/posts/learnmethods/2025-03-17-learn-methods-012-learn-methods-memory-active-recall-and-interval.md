@@ -1,6 +1,6 @@
 ---
 
-title: 主动回忆（Active Recall） 和 间隔重复（Spaced Repetition）
+title: 学习方法论记忆篇之主动回忆（Active Recall） 和 间隔重复（Spaced Repetition）
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]

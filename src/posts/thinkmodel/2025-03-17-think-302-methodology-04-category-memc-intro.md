@@ -2,7 +2,7 @@
 
 title: 方法论之 MECE 原则（Mutually Exclusive, Collectively Exhaustive） 分类体系设计里的核心难题之如何做到不重复，不遗漏？
 date: 2025-03-17
-categories: [methodsandmodel]
+categories: [ThinkModel]
 tags: [think, software, methodology, sh]
 published: true
 ---

@@ -2,7 +2,7 @@
 
 title: 系统化架构评估方法 CBAM（Cost Benefit Analysis Method，成本效益分析法）
 date: 2025-03-17
-categories: [methodsandmodel]
+categories: [ThinkModel]
 tags: [think, software, sh]
 published: true
 ---

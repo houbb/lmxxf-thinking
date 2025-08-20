@@ -1,6 +1,6 @@
 ---
 
-title: 面对全新的知识技术如何学习？西蒙学习法 Simon Learning Method
+title: 学习方法论阅读理解篇之西蒙学习法 Simon Learning Method
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]

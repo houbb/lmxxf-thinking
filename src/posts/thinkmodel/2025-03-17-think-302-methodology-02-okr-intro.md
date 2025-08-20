@@ -2,7 +2,7 @@
 
 title: 方法论之 OKR 入门介绍
 date: 2025-03-17
-categories: [methodsandmodel]
+categories: [ThinkModel]
 tags: [think, software, methodology, sh]
 published: true
 ---

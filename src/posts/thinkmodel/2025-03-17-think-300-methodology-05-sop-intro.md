@@ -2,7 +2,7 @@
 
 title: 方法论之 SOP（Standard Operating Procedure，标准操作流程）
 date: 2025-03-17
-categories: [methodsandmodel]
+categories: [ThinkModel]
 tags: [think, software, methodology, sh]
 published: true
 ---

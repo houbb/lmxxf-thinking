@@ -2,7 +2,7 @@
 
 title: 方法论之端到端(end-to-end) 以用户需求为核心、覆盖全生命周期的方法论
 date: 2025-03-17
-categories: [methodsandmodel]
+categories: [ThinkModel]
 tags: [think, software, methodology, sh]
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: 面对全新的知识技术如何学习？SQ3R阅读法
+title: 学习方法论阅读理解篇之SQ3R阅读法
 date: 2025-03-17
 categories: [LearnMethods]
 tags: [think, software, sh]
