@@ -1,7 +1,7 @@
 ---
 
 title: 走遍中国-04-远程办公（Remote Work）
-date: 2025-5-11 20:16:25 +0800
+date: 2025-05-11
 categories: [Travel]
 tags: [life, note, sh]
 published: true
