@@ -1,7 +1,7 @@
 ---
 
 title: 思维模型之 TIME 模型核心框架解析
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [methodsandmodel]
 tags: [think, software, sh]
 published: true

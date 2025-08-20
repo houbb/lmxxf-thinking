@@ -1,7 +1,7 @@
 ---
 
 title: 从零开始造轮子？开源拿来主义二开？还是直接用商用
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [methodsandmodel]
 tags: [think, bigdata, sh]
 published: true

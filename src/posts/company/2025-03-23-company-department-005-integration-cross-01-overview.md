@@ -1,7 +1,7 @@
 ---
 
 title: 跨部门协作？指定标准？量化每一步？
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [company]
 tags: [think, software, company, department, sh]
 published: true

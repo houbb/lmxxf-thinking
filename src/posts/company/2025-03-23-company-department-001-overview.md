@@ -1,7 +1,7 @@
 ---
 
 title: 一家技术公司的全生命周期、部门演变-01-部门概览
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [company]
 tags: [think, software, company, department, sh]
 published: true

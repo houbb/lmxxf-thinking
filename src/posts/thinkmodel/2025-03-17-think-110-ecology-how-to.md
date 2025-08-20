@@ -1,7 +1,7 @@
 ---
 
 title: 如何打造软件的生态？
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [methodsandmodel]
 tags: [think, bigdata, sh]
 published: true

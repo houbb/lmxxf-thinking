@@ -1,7 +1,7 @@
 ---
 
 title: 技术公司架构评审委员会+架构评审 Architecture Review / Architecture Review Board, ARB）
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [company]
 tags: [think, software, company, department, sh]
 published: true

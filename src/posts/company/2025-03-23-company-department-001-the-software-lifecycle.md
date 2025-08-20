@@ -1,7 +1,7 @@
 ---
 
 title: 互联网软件应用的全生命周期，从项目申请到下线
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [company]
 tags: [think, software, company, department, sh]
 published: true

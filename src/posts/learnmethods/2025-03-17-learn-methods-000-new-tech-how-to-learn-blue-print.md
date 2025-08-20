@@ -1,8 +1,8 @@
 ---
 
 title: 学习方法论蓝图
-date: 2025-03-17 21:01:55 +0800
-categories: [methodsandmodel]
+date: 2025-03-17
+categories: [LearnMethods]
 tags: [think, software, sh]
 published: true
 ---

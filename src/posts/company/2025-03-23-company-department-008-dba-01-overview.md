@@ -1,7 +1,7 @@
 ---
 
 title: 技术公司之DBA专家团队 （Database Administrator，数据库管理员）
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [company]
 tags: [think, software, company, department, sh]
 published: true

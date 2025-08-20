@@ -1,7 +1,7 @@
 ---
 
 title: 学了就忘？试一下费曼学习法
-date: 2025-03-17 21:01:55 +0800
+date: 2025-03-17
 categories: [methodsandmodel]
 tags: [think, learn, sh]
 published: true

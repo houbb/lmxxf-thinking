@@ -1,8 +1,8 @@
 ---
 
 title: 面对全新的知识技术如何学习？番茄学习法（Pomodoro Technique）
-date: 2025-03-17 21:01:55 +0800
-categories: [methodsandmodel]
+date: 2025-03-17
+categories: [LearnMethods]
 tags: [think, software, sh]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 
 title: 面对全新的知识技术如何学习？康奈尔笔记法（Cornell Note-taking System）
-date: 2025-03-17 21:01:55 +0800
-categories: [methodsandmodel]
+date: 2025-03-17
+categories: [LearnMethods]
 tags: [think, software, sh]
 published: true
 ---
