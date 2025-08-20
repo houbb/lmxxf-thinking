@@ -1,7 +1,7 @@
 ---
 
 title: 《法治的细节》罗翔 45/200
-date: 2025-2-9 20:56:35 
+date: 2025-02-09 
 categories: [reading]
 tags: [reading, book, 5min, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: 一些系统的学习资料
-date: 2025-03-24 21:01:55 +0800
+date: 2025-03-24
 categories: [Money]
 tags: [money, sh]
 published: true

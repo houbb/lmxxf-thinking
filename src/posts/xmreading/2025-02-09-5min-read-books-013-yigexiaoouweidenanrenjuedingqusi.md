@@ -1,7 +1,7 @@
 ---
 
 title: 《一个叫欧维的男人决定去死》当孤独遇见温柔
-date: 2025-2-9 20:56:35 
+date: 2025-02-09 
 categories: [reading]
 tags: [reading, book, 5min, sh]
 published: true

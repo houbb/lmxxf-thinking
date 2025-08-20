@@ -1,7 +1,7 @@
 ---
 
 title: 《平凡的世界》世界以痛吻我，我却报之以歌
-date: 2025-2-9 20:56:35 
+date: 2025-02-09 
 categories: [reading]
 tags: [reading, book, 5min, sh]
 published: true

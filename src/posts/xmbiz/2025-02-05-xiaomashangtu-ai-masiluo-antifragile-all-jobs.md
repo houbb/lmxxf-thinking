@@ -1,7 +1,7 @@
 ---
 
 title: 越动荡越强大：你的脆弱正在吃掉你的人生红利
-date: 2025-2-5 20:56:35 
+date: 2025-02-05 
 categories: [business]
 tags: [biz, sh]
 published: true

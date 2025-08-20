@@ -1,7 +1,7 @@
 ---
 
 title: 9.9元的知识与999元的粉底：我们正在用物质粉饰精神的贫瘠
-date: 2025-2-5 20:56:35 
+date: 2025-02-05 
 categories: [business]
 tags: [biz, sh]
 published: true

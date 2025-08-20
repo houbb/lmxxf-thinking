@@ -1,7 +1,7 @@
 ---
 
 title: 应用源码平台-00-overview
-date: 2025-03-24 21:01:55 +0800
+date: 2025-03-24
 categories: [Money]
 tags: [money, sh]
 published: true

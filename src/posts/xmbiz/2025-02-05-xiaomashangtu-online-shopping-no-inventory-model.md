@@ -1,7 +1,7 @@
 ---
 
 title: 在线购物电商的话，无货源模式怎么做？No-Inventory Model
-date: 2025-2-5 20:56:35 
+date: 2025-02-05 
 categories: [business]
 tags: [biz, sh]
 published: true

@@ -1,6 +1,6 @@
 ---
 title: 如何编写书本笔记？
-date: 2025-2-9 20:56:35 
+date: 2025-02-09 
 categories: [reading]
 tags: [reading, book, 5min, sh]
 published: true

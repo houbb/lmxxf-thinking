@@ -1,7 +1,7 @@
 ---
 
 title: AI 接管世界后，人类需要多少火种才能不灭？
-date: 2025-2-3 13:04:22 
+date: 2025-02-03 
 categories: [notes]
 tags: [ai, person, sh]
 published: true

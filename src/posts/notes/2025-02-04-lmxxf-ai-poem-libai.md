@@ -1,7 +1,7 @@
 ---
 
 title: 我李白承认，崔颢的黄鹤楼略胜于我
-date: 2025-2-3 13:04:22 
+date: 2025-02-03 
 categories: [notes]
 tags: [ai, person, sh]
 published: true

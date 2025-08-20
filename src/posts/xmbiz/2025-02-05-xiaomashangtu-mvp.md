@@ -1,7 +1,7 @@
 ---
 
 title: MVP 最小化商业模型可行方案验证实战+代发+无货源
-date: 2025-2-5 20:56:35 
+date: 2025-02-05 
 categories: [business]
 tags: [biz, sh]
 published: true

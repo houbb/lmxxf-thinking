@@ -1,7 +1,7 @@
 ---
 
 title: 为什么我们上班就能拿到工资？
-date: 2025-2-5 20:56:35 
+date: 2025-02-05 
 categories: [business]
 tags: [biz, sh]
 published: true

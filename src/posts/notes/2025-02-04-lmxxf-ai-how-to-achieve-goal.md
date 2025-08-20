@@ -1,7 +1,7 @@
 ---
 
 title: 工作和生活中如何更好完成自己定的小目标
-date: 2025-2-3 13:04:22 
+date: 2025-02-03 
 categories: [notes]
 tags: [ai, person, sh]
 published: true
