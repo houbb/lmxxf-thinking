@@ -10,7 +10,6 @@ published: true
 
 # 持续迭代学习系统 Continuous Iterative Learning System CILS
 
-
 持续迭代学习系统（Continuous Iterative Learning System，简称 CILS）完整地拆开讲。
 
 它其实是把 PDCA、学习数据追踪、日志反思等方法综合起来，形成一个 自我进化的学习闭环。
