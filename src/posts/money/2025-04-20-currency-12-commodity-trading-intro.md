@@ -1,7 +1,7 @@
 ---
 
 title: 大宗商品交易（Commodity Trading）
-date: 2025-4-19 14:31:52 +0800
+date: 2025-4-19
 categories: [Money]
 tags: [note, bold, sh]
 published: true

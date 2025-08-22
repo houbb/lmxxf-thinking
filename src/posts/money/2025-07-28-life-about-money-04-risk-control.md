@@ -1,7 +1,7 @@
 ---
 
 title: 对于人生选择、投资回报之类的，如何尽可能的控制风险？
-date: 2025-7-28 11:17:38 +0800
+date: 2025-7-28
 categories: [Money]
 tags: [life, thinking, sh]
 published: true

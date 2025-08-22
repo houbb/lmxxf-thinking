@@ -1,7 +1,7 @@
 ---
 
 title: 程序员的个人职业发展
-date: 2025-7-28 11:17:38 +0800
+date: 2025-7-28
 categories: [Money]
 tags: [life, thinking, sh]
 published: true

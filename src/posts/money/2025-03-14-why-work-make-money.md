@@ -1,7 +1,7 @@
 ---
 
 title: 不上班行不行啊？！
-date: 2025-3-14 22:37:29 +0800
+date: 2025-3-14
 categories: [Talk]
 tags: [talk, sh]
 published: true

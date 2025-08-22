@@ -1,7 +1,7 @@
 ---
 
 title: 金融系列概览
-date: 2025-4-19 14:31:52 +0800
+date: 2025-4-19
 categories: [Money]
 tags: [note, financial, money, sh]
 published: true

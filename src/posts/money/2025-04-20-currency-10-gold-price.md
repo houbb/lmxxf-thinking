@@ -1,7 +1,7 @@
 ---
 
 title: 金价的影响因素+数据验证
-date: 2025-4-19 14:31:52 +0800
+date: 2025-4-19
 categories: [Money]
 tags: [note, bold, sh]
 published: true

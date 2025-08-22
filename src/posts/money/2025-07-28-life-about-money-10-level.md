@@ -1,7 +1,7 @@
 ---
 
 title: 关于挣钱的10个层次
-date: 2025-7-28 11:17:38 +0800
+date: 2025-7-28
 categories: [Money]
 tags: [life, thinking, sh]
 published: true

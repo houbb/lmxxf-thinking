@@ -1,7 +1,7 @@
 ---
 
 title: 活期存款与定期存款 Fixed Deposit & Current Deposit
-date: 2025-4-19 14:31:52 +0800
+date: 2025-4-19
 categories: [Money]
 tags: [note, bold, money, sh]
 published: true

@@ -1,7 +1,7 @@
 ---
 
 title: 投资方式之：定投/定期投资（Dollar Cost Averaging）
-date: 2025-4-19 14:31:52 +0800
+date: 2025-4-19
 categories: [Money]
 tags: [note, bold, sh]
 published: true

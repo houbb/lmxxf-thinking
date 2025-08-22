@@ -1,7 +1,7 @@
 ---
 
 title: 从日本“失落的三十年”中，中国年轻人可以学到的职场生存术
-date: 2025-7-11 14:12:33 +0800
+date: 2025-07-11
 categories: [Money]
 tags: [note, sh]
 published: true

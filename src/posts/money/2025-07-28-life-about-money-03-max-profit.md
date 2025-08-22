@@ -1,7 +1,7 @@
 ---
 
 title: 对于资金收益或者是人生成长、投资回报之类的，如何追求利益最大化？
-date: 2025-7-28 11:17:38 +0800
+date: 2025-7-28
 categories: [Money]
 tags: [life, thinking, sh]
 published: true

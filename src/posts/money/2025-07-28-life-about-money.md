@@ -1,7 +1,7 @@
 ---
 
 title: 关于资金的不可能三角 安全、流动、收益
-date: 2025-7-28 11:17:38 +0800
+date: 2025-7-28
 categories: [Money]
 tags: [life, thinking, sh]
 published: true

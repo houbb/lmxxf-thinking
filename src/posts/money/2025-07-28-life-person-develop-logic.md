@@ -1,7 +1,7 @@
 ---
 
 title: 如何提升个人的逻辑能力
-date: 2025-7-28 11:17:38 +0800
+date: 2025-7-28
 categories: [Money]
 tags: [life, thinking, sh]
 published: true

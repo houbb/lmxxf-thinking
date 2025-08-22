@@ -1,7 +1,7 @@
 ---
 
 title: 看完《苦尽柑来遇见你》一点思考
-date: 2025-4-21 12:56:21 +0800
+date: 2025-4-21
 categories: [Movie]
 tags: [note, movie, sh]
 published: true

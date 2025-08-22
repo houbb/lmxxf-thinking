@@ -1,7 +1,7 @@
 ---
 
 title: 货币的价值 currency value
-date: 2025-4-19 14:31:52 +0800
+date: 2025-4-19
 categories: [Money]
 tags: [note, asset, sh]
 published: true
