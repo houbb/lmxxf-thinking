@@ -7,18 +7,10 @@ published: true
 ---
 
 
-# chat
-
-## 是什么？
-
-
-好，我来给你详细拆解一下 第二大脑（Second Brain） 的概念 🌌。
-
----
-
 # 🧠 什么是第二大脑（Second Brain）？
 
 第二大脑是一种个人知识管理（PKM, Personal Knowledge Management）方法论。
+
 它的核心思想是：把大脑中需要记忆、思考、存储的内容，外包到一个可靠的外部系统中（软件、笔记库、知识库），从而让真实的大脑专注在 创造与思考 上，而不是死记硬背。
 
 最有代表性的方法是 Tiago Forte 提出的 Building a Second Brain 理念。
