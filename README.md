@@ -8,6 +8,15 @@
 
 # 本地
 
+## node 版本
+
+```
+> node -v
+v22.18.0
+```
+
+## 命令
+
 ```
 npm install
 npm run docs:clean-dev

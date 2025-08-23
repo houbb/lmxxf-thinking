@@ -3,6 +3,7 @@ import { viteBundler } from '@vuepress/bundler-vite';
 import theme from "./theme.js";
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { markdownChartPlugin } from '@vuepress/plugin-markdown-chart'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -30,4 +31,21 @@ export default defineUserConfig({
   },
 
   theme,
+
+  plugins: [
+    markdownChartPlugin({
+      // 启用 Chart.js
+      chartjs: true,
+      // 启用 ECharts
+      echarts: true,
+      // 启用 Flowchart.js
+      flowchart: true,
+      // 启用 Markmap
+      markmap: true,
+      // 启用 Mermaid
+      mermaid: true,
+      // 启用 PlantUML
+      plantuml: true,
+    }),
+  ],
 });
