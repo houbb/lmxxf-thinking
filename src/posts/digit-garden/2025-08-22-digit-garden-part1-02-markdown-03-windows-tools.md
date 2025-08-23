@@ -8,11 +8,6 @@ published: true
 
 
 
-
-# chat
-
-在 Windows 平台上，有多款 开源且高效 的 Markdown 编辑器，适用于写作、笔记、博客撰写、技术文档等场景。以下是一些值得推荐的工具：
-
 ## 推荐的开源 Markdown 编辑器
 
 ### 1. MarkText

@@ -7,8 +7,6 @@ published: true
 ---
 
 
-# chat
-
 ## 目前个人博客的问题
 
 ```

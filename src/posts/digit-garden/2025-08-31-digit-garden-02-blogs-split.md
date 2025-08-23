@@ -6,9 +6,6 @@ tags: [digit-garden, sh]
 published: true
 ---
 
-
-# chat
-
 ## vuepress 中的如何整合知识图谱插件
 
 ```
