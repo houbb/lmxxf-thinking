@@ -36,11 +36,25 @@ gitbook: [https://houbb.gitbook.io/digit-garden/](https://houbb.gitbook.io/digit
 
 ## 学习方法论（学习模型-深度加工）
 
+github: [https://github.com/houbb/lmxxf-thinking](https://github.com/houbb/lmxxf-thinking)
+
+github-pags: [https://houbb.github.io/lmxxf-thinking/](https://houbb.github.io/lmxxf-thinking/posts/learnmethods/)
+
 ## 思维模型（底层模型-深度加工）
 
-# 相关
+github: [https://github.com/houbb/lmxxf-thinking](https://github.com/houbb/lmxxf-thinking)
 
-[读书输入 lmxxf-reading](https://github/houbb/lmxxf-reading)
+github-pags: [https://houbb.github.io/lmxxf-thinking/](https://houbb.github.io/lmxxf-thinking/posts/thinkmodel/)
+
+## 刻意练习(力扣算法)
+
+[leetcode 算法实现源码](https://github.com/houbb/leetcode)
+
+[leetcode 刷题学习笔记](https://github.com/houbb/leetcode-notes)
+
+[老马技术博客](https://houbb.github.io/)
+
+# 相关
 
 [个人技术笔记](https://github/houbb/houbb.github.io)
 
