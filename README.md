@@ -34,7 +34,7 @@ github-pags: [https://houbb.github.io/lmxxf-thinking/](https://houbb.github.io/l
 
 gitbook: [https://houbb.gitbook.io/digit-garden/](https://houbb.gitbook.io/digit-garden/)
 
-## 学习方法论（学习模型-深度加工）
+## 学习方法论（学习技巧-深度加工）
 
 github: [https://github.com/houbb/lmxxf-thinking](https://github.com/houbb/lmxxf-thinking)
 
