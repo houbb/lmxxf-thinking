@@ -1,9 +1,9 @@
 ---
 
 title: 全面思维模型：让你的思考更高效、更全面 整个系列蓝图
-date: 2025-03-17
-categories: [ThinkModel]
-tags: [think, software, sh]
+date: 2025-08-24
+categories: [Think-Model]
+tags: [think-model, thinking, sh]
 published: true
 ---
 

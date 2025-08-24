@@ -1,9 +1,9 @@
 ---
 
 title: 为什么编写思维模型这个专题
-date: 2025-03-17
-categories: [ThinkModel]
-tags: [think, software, sh]
+date: 2025-08-24
+categories: [Think-Model]
+tags: [think-model, thinking, sh]
 published: true
 ---
 
