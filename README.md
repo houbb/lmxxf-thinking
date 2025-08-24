@@ -22,12 +22,11 @@ npm install
 npm run docs:clean-dev
 ```
 
-
 # 系列专题
 
 ## 读书笔记（知识输入）
 
-## 知识花园（知识库、沉淀）
+## 知识花园（知识库、沉淀、有效输出）
 
 github: [https://github.com/houbb/lmxxf-thinking](https://github.com/houbb/lmxxf-thinking)
 
@@ -35,12 +34,9 @@ github-pags: [https://houbb.github.io/lmxxf-thinking/](https://houbb.github.io/l
 
 gitbook: [https://houbb.gitbook.io/digit-garden/](https://houbb.gitbook.io/digit-garden/)
 
-## 学习方法论（学习模型-转换）
+## 学习方法论（学习模型-深度加工）
 
-## 思维模型（底层模型-转换）
-
-
-
+## 思维模型（底层模型-深度加工）
 
 # 相关
 
@@ -61,6 +57,8 @@ gitbook: [https://houbb.gitbook.io/digit-garden/](https://houbb.gitbook.io/digit
 个人思考笔记--》反馈+记录+沉淀
 
 实战--》不要纸上谈兵
+
+PDCA
 
 ## 工具支撑
 
