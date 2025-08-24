@@ -32,6 +32,11 @@ published: true
 ## 附录
 ```
 
+
+# 整体蓝图
+
+![global](https://houbb.github.io/lmxxf-thinking/assets/images/digit-garden/digit-garden-blue-print-mindmap.png)
+
 # 打造个人知识库的数字花园
 
 ## 前言

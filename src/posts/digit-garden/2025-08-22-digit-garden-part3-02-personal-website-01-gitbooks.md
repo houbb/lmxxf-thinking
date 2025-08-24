@@ -63,7 +63,7 @@ published: true
 
 1) 创建 Docs-site 
 
-![创建](/assets/images/digit-garden/digit-garden-gitbook-docs-website.png)
+![创建](https://houbb.github.io/lmxxf-thinking/assets/images/digit-garden/digit-garden-gitbook-docs-website.png)
 
 2) 创建 github 项目
 
@@ -96,7 +96,7 @@ github 授权=》选择账户=》选择仓库=》选择分支(main)
 
 我们回到首页，可以选择发布这个文档。
 
-![publish](/assets/images/digit-garden/digit-garden-gitbook-docs-website-02-publish.png)
+![publish](https://houbb.github.io/lmxxf-thinking/assets/images/digit-garden/digit-garden-gitbook-docs-website-02-publish.png)
 
 5) 在线访问
 

@@ -61,7 +61,7 @@ published: true
 
 【setting】=>【Pages】，选择 `gh-pages` 分支，点击【save】保存即可。
 
-![github-pages-setting](/assets/images/digit-garden/github-pages-setting.png)
+![github-pages-setting](https://houbb.github.io/lmxxf-thinking/assets/images/digit-garden/github-pages-setting.png)
 
 稍微等待一会儿，就可以访问了。
 
