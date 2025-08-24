@@ -22,6 +22,26 @@ npm install
 npm run docs:clean-dev
 ```
 
+
+# 系列专题
+
+## 读书笔记（知识输入）
+
+## 知识花园（知识库、沉淀）
+
+github: [https://github.com/houbb/lmxxf-thinking](https://github.com/houbb/lmxxf-thinking)
+
+github-pags: [https://houbb.github.io/lmxxf-thinking/](https://houbb.github.io/lmxxf-thinking/posts/digit-garden/)
+
+gitbook: [https://houbb.gitbook.io/digit-garden/](https://houbb.gitbook.io/digit-garden/)
+
+## 学习方法论（学习模型-转换）
+
+## 思维模型（底层模型-转换）
+
+
+
+
 # 相关
 
 [读书输入 lmxxf-reading](https://github/houbb/lmxxf-reading)
@@ -33,7 +53,6 @@ npm run docs:clean-dev
 ## 整体关系
 
 **高效输入（时间管理+阅读）、深度加工（笔记+反思）、有效输出（练习+讲解+实战）、科学记忆（复习+间隔重复）**。
-
 
 读书--》高质量的输入
 
